@@ -1,2 +1,2 @@
 all:
-	gfortran hw.f90
+	gfortran bye.f90
